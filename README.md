@@ -1,7 +1,12 @@
 <h1 align="center">console.log("Hi, I am Mauricio")</h1>
 
+<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
+
 <p align="left">
-Hello, I'm Mauricio. I'm 20 years old and I'm a systems engineering student. I'm passionate about technology, programming, and Linux. Currently, I'm studying, but it hasn't been a barrier to learning on my own and developing my skills. I am self-taught and can learn independently without any issues. Additionally, I enjoy experimenting with technology. 
+👨‍💻 Mauricio, 20 years old <br>
+🧑‍🎓 Systems engineering student <br>
+💻 Passionate about technology, programming, and Linux <br>
+📚 Self-taught and love experimenting with tech
 </p>
 
 # 💻  Setup
