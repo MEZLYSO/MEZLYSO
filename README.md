@@ -39,7 +39,7 @@
 
 <center>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEZLYSO&layout=pie&theme=dark)
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
 </center>
