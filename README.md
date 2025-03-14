@@ -1,6 +1,6 @@
 <h1 align="center">console.log("Hi, I am Mauricio")</h1>
 
-<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
+<img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/32463969/0e7f6d70e7c9ee829444876980fd6f948aa0b59c.gif">
 
 <p align="left">
 👨‍💻 Mauricio, 20 years old <br>
