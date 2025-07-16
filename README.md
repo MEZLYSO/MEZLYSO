@@ -1,13 +1,14 @@
 <h1 align="center">console.log("Hi, I am Mauricio")</h1>
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/chill.gif">
+<img style="widht:20px" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
-<p align="left">
-👨‍💻 Mauricio, 20 years old <br>
-🧑‍🎓 Systems engineering student <br>
-💻 Passionate about technology, programming, and Linux <br>
-📚 Self-taught and love experimenting with tech
-</p>
+# 👤 About me
+
+- 👨‍💻 Mauricio, 20 years old <br>
+- 🧑‍🎓 Systems engineering student <br>
+- 💻 Passionate about technology, programming, and Linux <br>
+- 📚 Self-taught and love experimenting with tech
+
 
 # 💻  Setup
 <div style="display:flex">
@@ -29,7 +30,6 @@
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-![Bun Badge](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge)
 
 # 🧑‍💻 Learning
 
@@ -39,3 +39,5 @@
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
