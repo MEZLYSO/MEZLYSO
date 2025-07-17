@@ -2,6 +2,12 @@
 
 <img style="widht:20px" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
+<p aling="center">
+
+   <a href="linkedin.com/in/mezlyso"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+</p>
+
 # 👤 About me
 
 - 👨‍💻 Mauricio, 20 years old <br>
