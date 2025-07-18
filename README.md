@@ -2,12 +2,8 @@
 
 <img style="widht:20px" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
-<p aling="center">
-
-   <img src="https://komarev.com/ghpvc/?username=MEZLYSO&style=flat-square&color=blue" alt=""/>
-   <a href="linkedin.com/in/mezlyso"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=MEZLYSO&style=flat-square&color=blue" alt=""/>
   
-</p>
 
 # 👤 About me
 
@@ -48,3 +44,11 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+
+# 🌐 Social Media
+
+<div align="center" style="display:flex">
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mezlyso)
+  
+</div>
