@@ -4,6 +4,7 @@
 
 <p aling="center">
 
+   <img src="https://komarev.com/ghpvc/?username=MEZLYSO&style=flat-square&color=blue" alt=""/>
    <a href="linkedin.com/in/mezlyso"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 </p>
