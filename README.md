@@ -2,10 +2,6 @@
 
 <img style="widht:20px" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
-<a href="https://maurydev.vercel.app/">
-💼 Portfolio
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=MEZLYSO&style=flat-square&color=blue" alt=""/>
   
 
@@ -51,8 +47,10 @@
 
 # 🌐 Social Media
 
-<div align="center" style="display:flex">
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mezlyso)
-  
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <a href="https://maurydev.vercel.app/">💼 My Portfolio</a>
+  <a href="https://www.linkedin.com/in/mezlyso">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+  </a>
 </div>
+
