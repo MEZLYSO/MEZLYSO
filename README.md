@@ -1,9 +1,9 @@
 <h1 align="center">console.log("Hi, I am Mauricio")</h1>
 
-<img style="widht:20px" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
-<img src="https://komarev.com/ghpvc/?username=MEZLYSO&style=flat-square&color=blue" alt=""/>
-  
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <img style="widht:60px" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
+</div>
 
 # 👤 About me
 
@@ -11,13 +11,14 @@
 - 🧑‍🎓 Systems engineering student <br>
 - 💻 Passionate about technology, programming, and Linux <br>
 - 📚 Self-taught and love experimenting with tech
+- 🧠 Keep It Simple Stupid!!!
 
 
 # 💻  Setup
 <div style="display:flex">
 
-  ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)
-  ![Hyprland Badge](https://img.shields.io/badge/Hyprland-58E1FF?logo=hyprland&logoColor=000&style=for-the-badge)
+  ![Artix Linux Badge](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff&style=for-the-badge)
+  ![dwm Badge](https://img.shields.io/badge/dwm-17A?logo=dwm&logoColor=fff&style=for-the-badge)
   ![LazyVim Badge](https://img.shields.io/badge/LazyVim-2E7DE9?logo=lazyvim&logoColor=fff&style=for-the-badge)
   ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge)
   
