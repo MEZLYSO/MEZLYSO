@@ -11,6 +11,7 @@
 - 🧑‍🎓 Systems engineering student <br>
 - 💻 Passionate about technology, programming, and Linux <br>
 - 📚 Self-taught and love experimenting with tech
+- ❤️ I love Open Source
 - 🧠 Keep It Simple Stupid!!!
 
 
